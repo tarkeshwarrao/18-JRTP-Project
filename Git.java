@@ -1,3 +1,4 @@
 class Git{
-	
+	public saveMethod(){
+}
 }
